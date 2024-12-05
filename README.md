@@ -1,1 +1,1 @@
-# Collector
+# CollectorGame
